@@ -1,0 +1,69 @@
+.hid {	FONT-SIZE: 1pt; COLOR: #e2e2e2 }
+A {	FONT-SIZE: 8pt; COLOR: rgb(51,51,51); FONT-FAMILY: Verdana; TEXT-DECORATION: none }
+A:hover {COLOR: rgb(153,153,153)}
+BODY {	FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial, Helvetica, Sans Serif}
+
+FONT {	FONT-SIZE: 8pt; FONT-FAMILY: Verdana}
+P {	MARGIN-LEFT:6px;MARGIN-RIGHT:6px;FONT-SIZE: 8pt; FONT-FAMILY: Verdana}
+
+.mnu_link { font-weight:bold; color:rgb(238,238,238); text-decoration:none;}
+.mnu_link:hover { color:rgb(153,153,153); text-decoration:none;}
+
+.bg_title1 {	background: #000000; }
+.bg_title2 {	background-image: url("../images/title_bg.jpg"); }
+
+.small_title {	COLOR: #FFFFFF;FONT-WEIGHT: bold;FONT-SIZE: 8pt;}
+
+
+UL {	FONT-SIZE: 8pt;MARGIN-LEFT: 16px}
+LI {	FONT-SIZE: 8pt;MARGIN-BOTTOM: 6px; LIST-STYLE-TYPE: square}
+.col {	FONT-SIZE: 8pt;}
+.col1 {	FONT-SIZE: 8pt; WIDTH: 160px}
+.col2 {	FONT-SIZE: 8pt; WIDTH: 550px}
+.spanclass { MARGIN-LEFT:6px;font-size: 8.0pt; font-family: Verdana }
+.colwork {	COLOR: #FFFFFF;BACKGROUND-COLOR: #6088FA;FONT-WEIGHT: bold;FONT-SIZE: 8pt; WIDTH: 158px;BORDER-TOP: #D4D0C8 1px solid;BORDER-BOTTOM: #D4D0C8 1px solid;BORDER-LEFT: #D4D0C8 1px solid;}
+.colindustry {	COLOR: #FFFFFF;BACKGROUND-COLOR: #6088FA;FONT-SIZE: 8pt; WIDTH: 158px;BORDER-TOP: #D4D0C8 1px solid;BORDER-BOTTOM: #D4D0C8 1px solid;BORDER-LEFT: #D4D0C8 1px solid;}
+.colprof {	FONT-SIZE: 8pt; WIDTH: 610px;BORDER-TOP: #D4D0C8 1px solid;BORDER-RIGHT: #D4D0C8 1px solid;BORDER-BOTTOM: #D4D0C8 1px solid;BORDER-LEFT: #D4D0C8 1px solid;}
+.colprof1 {	FONT-SIZE: 8pt; WIDTH: 610px;BORDER-TOP: #D4D0C8 1px solid;BORDER-BOTTOM: #D4D0C8 1px solid;BORDER-LEFT: #D4D0C8 1px solid;}
+.colprofcert {	FONT-SIZE: 8pt; WIDTH: 80px;BORDER-TOP: #D4D0C8 1px solid;BORDER-RIGHT: #D4D0C8 1px solid;BORDER-BOTTOM: #D4D0C8 1px solid;}
+.colprof2 {	FONT-SIZE: 8pt; WIDTH: 610px}
+.colskillname {	WIDTH: 380px;text-align: left;}
+.colskilllevel {	WIDTH: 50px;text-align: center;}
+.colskillmonths {	WIDTH: 50px;text-align: center;}
+.colskilllastused {	WIDTH: 70px;text-align: center;}
+.myName {	FONT-WEIGHT: bold; FONT-SIZE: 10pt}
+.experienceYears {	COLOR: #8888bb}
+.availability {	COLOR: red}
+.requirements {	BORDER-RIGHT: #f0c0a0 4px solid; BORDER-TOP: #f0c0a0 4px solid; BORDER-LEFT: #f0c0a0 4px solid; BORDER-BOTTOM: #f0c0a0 4px solid; BACKGROUND-COLOR: #ffe9d9}
+.sidebox {	BORDER-RIGHT: #9999cc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #9999cc 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 8pt; FLOAT: right; PADDING-BOTTOM: 5px; MARGIN: 16px 8px 8px; BORDER-LEFT: #9999cc 1px solid; WIDTH: 210px; PADDING-TOP: 5px; BORDER-BOTTOM: #9999cc 1px solid; BACKGROUND-COLOR: #f3f5ff}
+.sidebox UL {	MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; PADDING-TOP: 0px}
+.body {	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; WIDTH: 100%; PADDING-TOP: 6px; HEIGHT: 420px; BACKGROUND-COLOR: white}
+.footer {	BORDER-TOP: gray 1px solid; LINE-HEIGHT: 120%}
+.footer_copyright_notice {	FONT-SIZE: 8pt}
+.footer_last_updated {	FONT-SIZE: 8pt}
+A.pagedesign {	COLOR: #9999cc; TEXT-DECORATION: none }
+A:pagedesign:hover { COLOR: #9999cc }
+A.linkinfo {	COLOR: #1d5773; TEXT-DECORATION: none }
+A:linkinfo:hover { COLOR: #3399cc; TEXT-DECORATION: underline }
+
+.communitytopleft { background-color: rgb(238,238,238); border-left: 1pt solid rgb(203,203,203); border-top: 1pt solid rgb(203,203,203); }
+.communitytopright { PADDING-TOP: 5px;background-color: rgb(238,238,238); border-top: 1pt solid rgb(203,203,203); border-right: 1pt solid rgb(203,203,203); }
+
+.communitysectionleft { background-color: rgb(238,238,238); border-left: 1pt solid rgb(203,203,203); border-top: 1pt solid rgb(168,168,168); }
+.communitysectionright { PADDING-TOP: 5px;background-color: rgb(238,238,238); border-top: 1pt solid rgb(168,168,168); border-right: 1pt solid rgb(203,203,203); }
+
+.communitybottomleft { background-color: rgb(238,238,238); border-left: 1pt solid rgb(203,203,203); border-top: 1pt solid rgb(168,168,168); border-bottom: 1pt solid rgb(203,203,203);}
+.communitybottomright { background-color: rgb(238,238,238); border-top: 1pt solid rgb(168,168,168); border-right: 1pt solid rgb(203,203,203); border-bottom: 1pt solid rgb(203,203,203);}
+.communitytitle { font-weight:bold;FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Sans Serif}
+.communityheader { font-family: Tahoma,Verdana,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt;}
+.communityheadertitle { font-family: Tahoma,Verdana,Arial,Helvetica,Sans-serif,sans-serif; font-size: 7pt; line-height: 150%; font-weight: normal; font-style: normal; font-variant: normal;}
+.communitybody { font-family: Tahoma,Verdana,Arial,Helvetica,Sans-serif,sans-serif; font-size: 9pt; font-weight: normal; font-style: normal; font-variant: normal;}
+.communitylink { font-weight:bold;PADDING-TOP: 5px;FONT-SIZE: 8pt;background-color: rgb(238,238,238); border-top: 1pt solid rgb(203,203,203); }
+
+H1 {	MARGIN-LEFT: 6px;FONT-WEIGHT: normal; FONT-SIZE: 8pt; WIDTH: 700px; COLOR: #fffffe; TEXT-ALIGN: right}
+H2 {	MARGIN-LEFT: 6px;FONT-SIZE: 18pt; COLOR: #666699}
+H3 {	MARGIN-LEFT: 6px;WIDTH: 770px; PADDING-TOP: 10px; BORDER-BOTTOM: #9999cc 1px solid}
+H4 {	MARGIN-LEFT: 0px;WIDTH: 770px; PADDING-TOP: 10px; PADDING-BOTTOM: 0px;}
+
+
+.tiny { font-family: Tahoma,Verdana,Arial,Helvetica,Sans-serif,sans-serif; font-size: 7pt; line-height: 150%; font-weight: normal; font-style: normal; font-variant: normal;}
