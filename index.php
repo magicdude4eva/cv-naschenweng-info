@@ -3,16 +3,16 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-    <title>Curriculum Vitae - CV - e-Commerce / Senior Java / J2EE / Websphere Architect / Enterprise Architect / Team Leader, CTO / CIO, South Africa / Austria / Germany</title>
+    <title>Curriculum Vitae - CV - e-Commerce / Senior Java / e-Commerce Architect / Enterprise Architect / Team Leader, CTO / CIO, Carinthia,Austria</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="revisit-after" content="7 days">
     <meta name="author" content="Gerd W. Naschenweng">
-    <meta name="copyright" content="Copyright &copy; 1996-2019 by Gerd W. Naschenweng. All Rights Reserved.">
+    <meta name="copyright" content="Copyright &copy; 1996-2021 by Gerd W. Naschenweng. All Rights Reserved.">
     <meta name="keywords" content="curriculum vitae, cv, architect, java developer, j2ee architect, banking, java beans, financial, insurance, j2ee consultant, it consultant, design patterns, db2, ecommerce, e-commerce, elasticsearch, solr, e-business, eclipse, java, j2ee, systems integration, jdbc, jaas, jsp, programmer, jboss, mvc, portal development, retail, servlets, sql, systems integration, struts, struts 1.1, swing, telcos, telecoms, telecommunications, uml, web enable, websphere, websphere application server, weblogic, xml, xsl, xslt, gerd w. naschenweng, austria, österreich, kärnten, klagenfurt, deutschland">
     <meta name="description" content="Curriculum Vitae - CV - e-Commerce / Senior Java / J2EE / Websphere Architect / Enterprise Architect / Team Leader, CTO / CIO, Austria / Österreich / Kärnten / Klagenfurt, Germany / Deutschland -- available for hire">
-    <meta name="CONTACT_ADDR" content="Hauptstraße 3, 9813 Möllbrücke, Österreich / Austria">
+    <meta name="CONTACT_ADDR" content="Tannenweg 8, 9064 Magdalensberg, Österreich / Austria">
     <meta name="rating" content="General">
     <meta name="robots" content="INDEX, FOLLOW">
     <link rel="canonical" href="https://www.naschenweng.info/cv/" />
@@ -35,7 +35,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="en_US"/>
     <meta property="og:site_name" content="naschenweng.info"/>
-    <meta property="og:title" content="CV Gerd Naschenweng ~ Java- &amp; JEE specialist / SEO / CTO"/>
+    <meta property="og:title" content="CV Gerd Naschenweng ~ Java- &amp; e-commerce specialist / SEO / CTO / Tech Lead"/>
     <meta property="og:description" content="Curriculum Vitae - CV - e-Commerce / Senior Java / J2EE / Websphere Architect / Enterprise Architect / Team Leader, CTO / CIO, Austria / Österreich / Kärnten / Klagenfurt, Germany / Deutschland -- available for hire"/>
     <meta property="og:image" content="https://www.naschenweng.info/cv/android-chrome-512x512.png"/>
     <meta property="og:image:width" content="512"/>
@@ -47,7 +47,7 @@
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:image" content="https://www.naschenweng.info/cv/android-chrome-512x512.png"/>
     <link itemprop="url" href="https://www.naschenweng.info/"/>
-    <meta itemprop="name" content="CV Gerd Naschenweng ~ Java- &amp; JEE specialist / SEO / CTO"/>
+    <meta itemprop="name" content="CV Gerd Naschenweng ~ Java- &amp; e-commerce specialist / SEO / CTO / Tech Lead"/>
     <meta itemprop="description" content="Curriculum Vitae - CV - e-Commerce / Senior Java / J2EE / Websphere Architect / Enterprise Architect / Team Leader, CTO / CIO, Austria / Österreich / Kärnten / Klagenfurt, Germany / Deutschland -- available for hire"/>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
@@ -117,7 +117,7 @@
                     <li title="Nationality"><i class="fa fa-globe"></i>Austrian (EC passport), South African perm. resident</li>
                     <li title="Workpermits for Austria, European Union and South Africa"><i class="fa fa-plane"></i>Austria, European Union, South Africa</li>
                     <li title="Marital status - Married with one child"><i class="fa fa-diamond"></i>Married</li>
-                    <li title="Address"><i class="fa fa-map-marker"></i>Johann-Burger-Straße 15, A-9020 Klagenfurt, Kärnten, Austria</li>
+                    <li title="Address"><i class="fa fa-map-marker"></i>Tannenweg 8, A-9064 Magdalensberg, Kärnten, Austria</li>
                 </ul>
             </div>
 
@@ -204,7 +204,7 @@
         <div class="main-wrapper">
           <section class="section summary-section" style="margin-bottom: 30px;">
               <div class="summary">
-                <i class="fa fa-quote-right"></i><span style="padding-left:5px;font-family: Georgia, serif;font-size: 120%;font-style: italic;line-height: 24px;">Österreicher / Kärntner derzeit in Südafrika als CTO bei bidorbuy in e-Commerce mit Java, DevOps, Linux, Tomcat, Solr, ElasticSearch &amp; Atlassian/New Relic tätig.<br></span>
+                <i class="fa fa-quote-right"></i><span style="padding-left:5px;font-family: Georgia, serif;font-size: 120%;font-style: italic;line-height: 24px;">e-Commerce enthusiast currently rocking e-tourism as a Techlead at Alturos Destinations. Managing a team of 30+ engineers across 15 customers and in charge of development of the Peaksolution&trade; e-commerce platform › DevOps, Linux, Agile, PHP, Java, OpenSource<br></span>
 
               <span style="font-size: 1pt; color: #ffffff">curriculum vitae, cv, websphere, senior Java, J2EE, Architect, Developer, Team Leader, Austria. Proactive, experienced senior Java software architect and developer with extensive Application Server (Websphere, Tomcat, Jetty) and Java experience available for work in Austria.</span>
               </div>
@@ -381,6 +381,36 @@
                 <div class="item">
                     <div class="meta">
                         <div style="float:left">
+                          <img style="width:40px;height:40px;margin-right:5px;" alt="Alturos.com" src="./assets/images/icon-alturos.png">
+                        </div>
+                        <div class="upper-row">
+                            <h3 class="job-title">Techlead / Development Manager</h3>
+                            <div class="time">Dec 2018 - current</div>
+                        </div>
+                        <div class="company"><a title="Alturos Destinations - Alturos Destinations empowers tourist destinations to use their potential effectively and leads them into a digital future." href="https://www.alturos.com/?lang=en">alturos.com</a>, Klagenfurt am Wörthersee (Austria)</div>
+                    </div>
+                    <div class="details">
+                      <p align="justify"><u><b>Business case:</b></u><br>
+                      Alturos Destinations provides with it's Peaksolution platform e-commerce and digitalisation solutions for the tourismus industry in the Alpine regions of Europe. As the Techlead for Peaksolution my role involves the management of the development pipeline across 3 teams with 25 engineers on-site and a 6 member remote-team located in Lviv, Ukraine.
+
+                      <br/><br/>With over 20 e-commerce installations across Austria, Italy, France and Switzerland I manage all development initiatives within Peaksolution for the the responsive, mobile and self-service channels. A highly agile team of engineers delivers up to 15 software releases per week.
+
+                      <br/>The responsibilities include the technical lead and coordination of the B2B-, B2C- and Integration-team and to be the interface to project management, product management and support channels across the organisation.
+                      </p>
+                      <p align="justify"><u><b>Scope of work &amp projects:</b></u></p>
+                      <ul>
+                        <li>Non-disclosure</li>
+                        <li>Management of 30+ engineering staff covering all software development for the Peaksolution&trade; e-tourism platform.</li>
+                      </ul>
+                    </div>
+                    <div class="company"><b>Technologies used:</b> PHP, Java, Kubernetes / Docker, LAMP, Kafka, MariaDB/MySQL in an agile environment using the Atlassian stack (JIRA, Confluence, Bamboo) and a vast number of integrations with 3rd party providers of touristic services.
+
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="meta">
+                        <div style="float:left">
                           <img style="width:40px;height:40px;margin-right:5px;" alt="BidorBuy" src="./assets/images/icon-bidorbuy.png">
                         </div>
                         <div class="upper-row">
@@ -412,7 +442,7 @@
                     </div>
                     <div class="company"><b>Technologies used:</b> Apache HTTP, Apache Solr, CentOS7, ElasticSearch, Freemarker, Graylog, GROK, Java, JAX-RS, Jersey, jQuery, JSP, Logstash, MailWizz, MySQL, New Relic APM, Nginx, Oracle, Perl, PHP, PowerMTA, SaltStack, Tomcat
                     </div>
-                </div>
+                </div>                
 
                 <div class="item">
                     <div class="meta">
