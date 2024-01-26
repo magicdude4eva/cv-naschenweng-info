@@ -1,11 +1,12 @@
 repo_name: magicdude4eva/cv-naschenweng-info
-report_id: c68b330e8a4b43f8e257ecef81e436ed
+report_id: 3de5b9361d8b692ac5504503bcbdeea3
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T12:24:05+00:00'
+timestamp: '2024-01-11T12:35:40+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: main
-detected_tools_count: 5
+detected_tools_count: 2
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,18 +17,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/magicdude4eva/cv-naschenweng-info
   detection_source: Repo Metadata
-- name: pgvector
-  description: Open-source vector similarity search for Postgres
-  website_url: https://github.com/pgvector/pgvector/
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Database Tools
-  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
-  detection_source: assets/plugins/font-awesome/HELP-US-OUT.txt
-  last_updated_by: magicdude4eva
-  last_updated_on: 2021-01-26 19:22:09.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -36,24 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/magicdude4eva/cv-naschenweng-info
   detection_source: Repo Metadata
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source: index.html
-  last_updated_by: magicdude4eva
-  last_updated_on: 2022-08-11 09:55:22.000000000 Z
-- name: LangChain
-  description: Build AI apps with LLMs through composability
-  website_url: https://github.com/hwchase17/langchain
-  open_source: true
-  hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
-  detection_source: assets/plugins/font-awesome/HELP-US-OUT.txt
-  last_updated_by: magicdude4eva
-  last_updated_on: 2021-01-26 19:22:09.000000000 Z
