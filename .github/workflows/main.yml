@@ -1,0 +1,37 @@
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: www176.your-server.de
+        username: naschea_1
+        password: ${{ secrets.FTP_PASSWORD }}
+        port: 21
+        protocol: ftps
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          README.md
+          techstack.*
+          LICENSE
+          assets/plugins/font-awesome/less/**
+          assets/plugins/font-awesome/scss/**
+          assets/plugins/font-awesome/sprites/**
+          assets/plugins/font-awesome/svgs/**
+          assets/plugins/font-awesome/metadata/**
+          assets/plugins/font-awesome/js/**
+          assets/plugins/font-awesome/fonts/**
+          assets/plugins/font-awesome/LICENSE.txt
+          assets/plugins/font-awesome/HELP-US-OUT.txt
+          assets/plugins/font-awesome/attribution.js
